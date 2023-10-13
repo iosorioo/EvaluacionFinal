@@ -4,3 +4,9 @@ Proyecto de música
 -Se crearon ramas para distinguir entre Artistas y Canciones Favoritas
 -Posterior a resolución de conflictos, se agrega una rama de Conciertos y otra de ConciertosEnChile.
 -Finalmente se hace un merge con main 
+
+________________________
+
+# Integrantes
+Ignacio Osorio
+Luis Felipe Gutiérrez
